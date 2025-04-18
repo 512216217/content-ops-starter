@@ -1,5 +1,5 @@
 ---
-title: Home
+title: ws
 slug: /
 sections:
   - title:

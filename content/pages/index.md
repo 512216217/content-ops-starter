@@ -12,7 +12,7 @@ sections:
       businesses.
     actions:
       - label: Zarejestruj wizytę
-        url: /
+        url: www.strefafizjoterapii.boooksy.com
         icon: arrowRight
         iconPosition: right
         style: secondary

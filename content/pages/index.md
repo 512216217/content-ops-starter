@@ -50,11 +50,12 @@ sections:
           - pr-7
     type: DividerSection
   - subtitle: Gabinet Fizjoterapii ul.Gorczycowa 12a/lokal 05
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      **Gabinet Fizjoterapii**
+
+      ul. Gorczycowa 12a/lokal 05u
+
+      81-591 Gdynia
     media:
       fields:
         - name: Twoje imię

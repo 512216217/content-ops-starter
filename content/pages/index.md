@@ -2,7 +2,7 @@
 title: ws
 slug: /
 sections:
-  - subtitle: Be in good company
+  - subtitle: ''
     text: >+
       Troszczymy się o zdrowie i dobre samopoczucie całej rodziny.
       Specjalizujemy się w fizjoterapii ortopedycznej, terapii manualnej,

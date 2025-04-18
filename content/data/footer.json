@@ -27,6 +27,9 @@
             "padding": [
                 "pt-1",
                 "pb-1"
+            ],
+            "margin": [
+                "mt-1"
             ]
         }
     }

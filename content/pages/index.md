@@ -62,7 +62,7 @@ sections:
     media:
       fields:
         - name: Twoje imię
-          label: Name
+          label: Twoje imię
           hideLabel: true
           placeholder: Your name
           isRequired: true

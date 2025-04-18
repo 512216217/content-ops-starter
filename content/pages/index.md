@@ -2,11 +2,7 @@
 title: ws
 slug: /
 sections:
-  - title:
-      text: DBAMY O ZDROWIE CAŁEJ RODZINY
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
+  - subtitle: Be in good company
     text: >
       A service that provides advice and guidance to startups and small
       businesses.

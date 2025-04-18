@@ -29,7 +29,7 @@ sections:
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Dbamy o zdrowie całej rodziny
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark

@@ -49,22 +49,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - subtitle: ''
-    text: |+
-      **Gabinet Fizjoterapii**
-
-      ul. Gorczycowa 12a/lokal 05u
-
-      81-591 Gdynia
-
-      Tel. 510 000 349
-
-    badge:
-      label: Nasz adres
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.

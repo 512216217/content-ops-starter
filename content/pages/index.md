@@ -11,7 +11,7 @@ sections:
       A service that provides advice and guidance to startups and small
       businesses.
     actions:
-      - label: Get started
+      - label: Zarejestruj wizytę
         url: /
         icon: arrowRight
         iconPosition: right

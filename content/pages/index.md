@@ -21,7 +21,7 @@ sections:
     actions:
       - label: Zarejestruj wizytę
         url: www.strefafizjoterapii.boooksy.com
-        icon: arrowRight
+        icon: chevronDown
         iconPosition: left
         style: secondary
         type: Button

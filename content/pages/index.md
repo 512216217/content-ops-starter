@@ -49,7 +49,7 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - subtitle: Gabinet Fizjoterapii ul.Gorczycowa 12a/lokal 05
+  - subtitle: ''
     text: |
       **Gabinet Fizjoterapii**
 

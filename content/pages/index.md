@@ -3,7 +3,7 @@ title: ws
 slug: /
 sections:
   - title:
-      text: Business Consulting
+      text: DBAMY O ZDROWIE CAŁEJ RODZINY
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
